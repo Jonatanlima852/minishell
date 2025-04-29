@@ -1,14 +1,7 @@
 # Documentação do Projeto Mini-shell
 
-Este documento reúne as informações principais do seguinte projeto de **mini-shell**, incluindo:
-
-1. Visão geral
-2. Makefile
-3. Arquivo `prog.c`
-4. Arquivo `minishell.c`
-5. Exemplos de uso
-
----
+### Alunos: Jontan de Lima Santos, Rui Andrade de Carvalho Nunes
+### Turma: COMP26
 
 ## 1. Visão Geral
 
